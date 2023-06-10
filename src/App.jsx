@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import BaseLayout from '../kayouts/base.layout'
+import BaseLayout from '../layouts/base.layout'
 import DigitButton from './components/DigiButton/DigitButton'
 
 function App() {
